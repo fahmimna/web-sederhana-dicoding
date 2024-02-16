@@ -2,11 +2,6 @@
 
 **Aplikasi To Do** - Bookshelf merupakan aplikasi yang dapat menyimpan data buku, aplikasi ini menggunakan penyimpanan berbasis web storage (local storage). Dibuat untuk memenuhi syarat kelulusan kelas [Belajar Membuat Front-End Web untuk Pemula](https://www.dicoding.com/academies/315) di Dicoding Academy
 
-![Author](https://img.shields.io/badge/made%20by-Ardywsptr-blue)
-![GitHub followers](https://img.shields.io/github/followers/Ardywsptr?style=social)
-![GitHub watches](https://img.shields.io/github/stars/Ardywsptr/Bookshelf_Submission-Belajar-Membuat-Front-End-Web-Untuk-Pemula-3?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/Ardywsptr/Bookshelf_Submission-Belajar-Membuat-Front-End-Web-Untuk-Pemula)
-
 <br clear="both">
 
 ## User Interface ✨
@@ -73,9 +68,7 @@ Total jam yang dibutuhkan untuk menyelesaikan kelas ini, mulai dari persiapan ke
 
 1. Clone this repository
    
-   `git clone https://github.com/Ardywsptr/Bookshelf_Submission-Belajar-Membuat-Front-End-Web-Untuk-Pemula/.git`
-
-    `cd Bookshelf_Submission-Belajar-Membuat-Front-End-Web-Untuk-Pemula`
+   `git clone https://github.com/`
    
 2. Hapus cache pada browser
 
@@ -98,7 +91,7 @@ Repositori ini adalah submission dari Dicoding untuk kelas Belajar Membuat Front
 
 > Jika ada pertanyaan atau issue, kunjungi [new issue](https://github.com/Ardywsptr/AWSMovies_Submission-Fundamental-Front-End-Web-Developer/issues/new)
 >
->Jika dokumentasi ini bermanfaat mari berteman dengan menekan tombol follow pada [profile](https://github.com/Ardywsptr) ini ☺☺☺
+>Jika dokumentasi ini bermanfaat mari berteman dengan menekan tombol follow pada [profile](https://github.com/fahmimna) ini ☺☺☺
 
 <br clear="both">
 
